@@ -10,4 +10,8 @@ to start write in terminal:
 cd django_folder
 python python.py runserver
 
+superuser:
+login:      giovanni
+password:   giorgio
+
 follow provided localhost link
